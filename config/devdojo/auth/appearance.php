@@ -18,11 +18,11 @@ return [
         'image_overlay_opacity' => '0.5',
     ],
     'color' => [
-        'text' => '#212936',
-        'button' => '#09090b',
-        'button_text' => '#ffffff',
-        'input_text' => '',
-        'input_border' => '#212936',
+        'text' => '#000000',
+        'button' => '#f43f5e',
+        'button_text' => '#881337',
+        'input_text' => '#000000',
+        'input_border' => '#881337',
     ],
     'alignment' => [
         'heading' => 'center',
