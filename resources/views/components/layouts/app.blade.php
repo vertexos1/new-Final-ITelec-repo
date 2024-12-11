@@ -8,6 +8,8 @@
         @vite('resources/css/app.css')
     </head>
     <body>
+        <livewire:header />
         {{ $slot }}
+        <livewire:footer />
     </body>
 </html>
