@@ -1,7 +1,7 @@
 <footer class="bg-white">
     <div class="mx-auto max-w-screen-xl space-y-8 px-4 py-16 sm:px-6 lg:space-y-16 lg:px-8">
       <div class="sm:flex sm:items-center sm:justify-between">
-        <div class="text-rose-600">
+        <div class="text-blue-600">
           <svg class="h-8" viewBox="0 0 118 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path
               d="M37.83 19.2047C37.2352 19.237 36.6469 19.0679 36.16 18.7247C35.9566 18.5739 35.7929 18.3758 35.6831 18.1476C35.5733 17.9193 35.5208 17.6678 35.53 17.4147V8.1447C35.5252 8.1055 35.5293 8.0656 35.5422 8.0282C35.555 7.9908 35.5762 7.9569 35.6042 7.9289C35.6322 7.9009 35.6661 7.8797 35.7035 7.8669C35.7409 7.854 35.7808 7.8499 35.82 7.8547H37.5C37.69 7.8547 37.78 7.9547 37.78 8.1447V16.6947C37.78 17.0747 37.95 17.2647 38.3 17.2647C38.4484 17.2708 38.5968 17.254 38.74 17.2147C38.94 17.2147 39.05 17.2747 39.06 17.4547L39.21 18.7047C39.2172 18.7412 39.2165 18.7787 39.208 18.8149C39.1995 18.851 39.1833 18.885 39.1605 18.9143C39.1378 18.9437 39.109 18.9679 39.0762 18.9852C39.0433 19.0025 39.0071 19.0126 38.97 19.0147C38.602 19.1363 38.2175 19.2004 37.83 19.2047Z"
@@ -45,7 +45,7 @@
             />
           </svg>
         </div>
-  
+
         <ul class="mt-8 flex justify-start gap-6 sm:mt-0 sm:justify-end">
           <li>
             <a
@@ -55,7 +55,7 @@
               class="text-gray-700 transition hover:opacity-75"
             >
               <span class="sr-only">Facebook</span>
-  
+
               <svg class="size-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path
                   fill-rule="evenodd"
@@ -65,7 +65,7 @@
               </svg>
             </a>
           </li>
-  
+
           <li>
             <a
               href="#"
@@ -74,7 +74,7 @@
               class="text-gray-700 transition hover:opacity-75"
             >
               <span class="sr-only">Instagram</span>
-  
+
               <svg class="size-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path
                   fill-rule="evenodd"
@@ -84,7 +84,7 @@
               </svg>
             </a>
           </li>
-  
+
           <li>
             <a
               href="#"
@@ -93,7 +93,7 @@
               class="text-gray-700 transition hover:opacity-75"
             >
               <span class="sr-only">Twitter</span>
-  
+
               <svg class="size-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path
                   d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84"
@@ -101,7 +101,7 @@
               </svg>
             </a>
           </li>
-  
+
           <li>
             <a
               href="#"
@@ -110,7 +110,7 @@
               class="text-gray-700 transition hover:opacity-75"
             >
               <span class="sr-only">GitHub</span>
-  
+
               <svg class="size-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path
                   fill-rule="evenodd"
@@ -120,7 +120,7 @@
               </svg>
             </a>
           </li>
-  
+
           <li>
             <a
               href="#"
@@ -129,7 +129,7 @@
               class="text-gray-700 transition hover:opacity-75"
             >
               <span class="sr-only">Dribbble</span>
-  
+
               <svg class="size-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path
                   fill-rule="evenodd"
@@ -141,95 +141,95 @@
           </li>
         </ul>
       </div>
-  
+
       <div
         class="grid grid-cols-1 gap-8 border-t border-gray-100 pt-8 sm:grid-cols-2 lg:grid-cols-4 lg:pt-16"
       >
         <div>
           <p class="font-medium text-gray-900">Services</p>
-  
+
           <ul class="mt-6 space-y-4 text-sm">
             <li>
               <a href="#" class="text-gray-700 transition hover:opacity-75"> 1on1 Coaching </a>
             </li>
-  
+
             <li>
               <a href="#" class="text-gray-700 transition hover:opacity-75"> Company Review </a>
             </li>
-  
+
             <li>
               <a href="#" class="text-gray-700 transition hover:opacity-75"> Accounts Review </a>
             </li>
-  
+
             <li>
               <a href="#" class="text-gray-700 transition hover:opacity-75"> HR Consulting </a>
             </li>
-  
+
             <li>
               <a href="#" class="text-gray-700 transition hover:opacity-75"> SEO Optimisation </a>
             </li>
           </ul>
         </div>
-  
+
         <div>
           <p class="font-medium text-gray-900">Company</p>
-  
+
           <ul class="mt-6 space-y-4 text-sm">
             <li>
               <a href="#" class="text-gray-700 transition hover:opacity-75"> About </a>
             </li>
-  
+
             <li>
               <a href="#" class="text-gray-700 transition hover:opacity-75"> Meet the Team </a>
             </li>
-  
+
             <li>
               <a href="#" class="text-gray-700 transition hover:opacity-75"> Accounts Review </a>
             </li>
           </ul>
         </div>
-  
+
         <div>
           <p class="font-medium text-gray-900">Helpful Links</p>
-  
+
           <ul class="mt-6 space-y-4 text-sm">
             <li>
               <a href="#" class="text-gray-700 transition hover:opacity-75"> Contact </a>
             </li>
-  
+
             <li>
               <a href="#" class="text-gray-700 transition hover:opacity-75"> FAQs </a>
             </li>
-  
+
             <li>
               <a href="#" class="text-gray-700 transition hover:opacity-75"> Live Chat </a>
             </li>
           </ul>
         </div>
-  
+
         <div>
           <p class="font-medium text-gray-900">Legal</p>
-  
+
           <ul class="mt-6 space-y-4 text-sm">
             <li>
               <a href="#" class="text-gray-700 transition hover:opacity-75"> Accessibility </a>
             </li>
-  
+
             <li>
               <a href="#" class="text-gray-700 transition hover:opacity-75"> Returns Policy </a>
             </li>
-  
+
             <li>
               <a href="#" class="text-gray-700 transition hover:opacity-75"> Refund Policy </a>
             </li>
-  
+
             <li>
               <a href="#" class="text-gray-700 transition hover:opacity-75"> Hiring Statistics </a>
             </li>
           </ul>
         </div>
       </div>
-  
+
       <p class="text-xs text-gray-500">&copy; 2022. Company Name. All rights reserved.</p>
     </div>
   </footer>

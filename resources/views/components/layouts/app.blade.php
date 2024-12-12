@@ -7,8 +7,8 @@
         <title>{{ $title ?? 'Page Title' }}</title>
         @vite('resources/css/app.css')
         @vite('resources/js/app.js')
-        @LivewireScripts
-        
+
+
     </head>
     <body>
             <livewire:header />
